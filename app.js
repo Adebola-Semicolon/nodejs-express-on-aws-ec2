@@ -18,19 +18,19 @@ app.get('/products', (req, res) => {
     },
      {
       productId: '103',
-      price: 100
+      price: 200
     },
      {
       productId: '104',
-      price: 100
+      price: 250
     },
      {
       productId: '105',
-      price: 100
+      price: 300
     },
      {
       productId: '106',
-      price: 100
+      price: 350
     }   
   ])
 })
